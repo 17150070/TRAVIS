@@ -39,7 +39,7 @@
 	<repositories>
 		<repository>
 			<id>ras_planirovki</id>
-			<url>https://github.com/16150003/TRAVIS_CI</url>
+			<url>https://github.com/17150070/TRAVIS</url>
 		</repository>
 	</repositories>
 </project>
