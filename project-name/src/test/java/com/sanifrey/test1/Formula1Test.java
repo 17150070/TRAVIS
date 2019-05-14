@@ -63,7 +63,7 @@ public class Formula1Test {
 		 * Метод assertEquals сравнивает значения, если значения будут разные, то будет ошибка.Предполагается,что
 		 * вернёт значение: 80.0
 		 */
-		assertEquals("80.0", formula.PFormula("100"));
+		assertEquals("83.0", formula.PFormula("100"));
 		/**
 		 * Выполняем удаление всех объектов.
 		 */
